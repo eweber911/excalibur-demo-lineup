@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="demo.live.unified" tvg-name="Unified Streaming Live" tvg-chno="1" group-title="Live",Unified Streaming Live
+#EXTINF:-1 tvg-id="demo.live.unified" tvg-name="Unified Streaming Live" tvg-chno="1" tvg-logo="https://eweber911.github.io/excalibur-demo-lineup/logos/demo.live.unified.png" group-title="Live",Unified Streaming Live
 https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8
-#EXTINF:-1 tvg-id="demo.live.mux" tvg-name="Mux Live Test" tvg-chno="2" group-title="Live",Mux Live Test
+#EXTINF:-1 tvg-id="demo.live.mux" tvg-name="Mux Live Test" tvg-chno="2" tvg-logo="https://eweber911.github.io/excalibur-demo-lineup/logos/demo.live.mux.png" group-title="Live",Mux Live Test
 https://stream.mux.com/v69RSHhFelSm4701snP22dYz2jICy4E4FUyk02rW4gxRM.m3u8
-#EXTINF:-1 tvg-id="demo.cinema.tos" tvg-name="Tears of Steel" tvg-chno="10" group-title="Open Cinema",Tears of Steel
+#EXTINF:-1 tvg-id="demo.cinema.tos" tvg-name="Tears of Steel" tvg-chno="10" tvg-logo="https://eweber911.github.io/excalibur-demo-lineup/logos/demo.cinema.tos.png" group-title="Open Cinema",Tears of Steel
 https://test-streams.mux.dev/tos_ismc/main.m3u8
-#EXTINF:-1 tvg-id="demo.cinema.bbb" tvg-name="Big Buck Bunny" tvg-chno="11" group-title="Open Cinema",Big Buck Bunny
+#EXTINF:-1 tvg-id="demo.cinema.bbb" tvg-name="Big Buck Bunny" tvg-chno="11" tvg-logo="https://eweber911.github.io/excalibur-demo-lineup/logos/demo.cinema.bbb.png" group-title="Open Cinema",Big Buck Bunny
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-id="demo.cinema.tos.hd" tvg-name="Tears of Steel HD" tvg-chno="12" group-title="Open Cinema",Tears of Steel HD
+#EXTINF:-1 tvg-id="demo.cinema.tos.hd" tvg-name="Tears of Steel HD" tvg-chno="12" tvg-logo="https://eweber911.github.io/excalibur-demo-lineup/logos/demo.cinema.tos.hd.png" group-title="Open Cinema",Tears of Steel HD
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-id="demo.ref.apple.adv" tvg-name="Apple Advanced Sample" tvg-chno="20" group-title="Reference Streams",Apple Advanced Sample
+#EXTINF:-1 tvg-id="demo.ref.apple.adv" tvg-name="Apple Advanced Sample" tvg-chno="20" tvg-logo="https://eweber911.github.io/excalibur-demo-lineup/logos/demo.ref.apple.adv.png" group-title="Reference Streams",Apple Advanced Sample
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
-#EXTINF:-1 tvg-id="demo.ref.apple.169" tvg-name="Apple 16:9 Sample" tvg-chno="21" group-title="Reference Streams",Apple 16:9 Sample
+#EXTINF:-1 tvg-id="demo.ref.apple.169" tvg-name="Apple 16:9 Sample" tvg-chno="21" tvg-logo="https://eweber911.github.io/excalibur-demo-lineup/logos/demo.ref.apple.169.png" group-title="Reference Streams",Apple 16:9 Sample
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
-#EXTINF:-1 tvg-id="demo.ref.apple.43" tvg-name="Apple 4:3 Sample" tvg-chno="22" group-title="Reference Streams",Apple 4:3 Sample
+#EXTINF:-1 tvg-id="demo.ref.apple.43" tvg-name="Apple 4:3 Sample" tvg-chno="22" tvg-logo="https://eweber911.github.io/excalibur-demo-lineup/logos/demo.ref.apple.43.png" group-title="Reference Streams",Apple 4:3 Sample
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
-#EXTINF:-1 tvg-id="demo.ref.mux.pts" tvg-name="Mux Timing Sample" tvg-chno="23" group-title="Reference Streams",Mux Timing Sample
+#EXTINF:-1 tvg-id="demo.ref.mux.pts" tvg-name="Mux Timing Sample" tvg-chno="23" tvg-logo="https://eweber911.github.io/excalibur-demo-lineup/logos/demo.ref.mux.pts.png" group-title="Reference Streams",Mux Timing Sample
 https://test-streams.mux.dev/pts_shift/master.m3u8
