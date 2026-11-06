@@ -9,6 +9,8 @@ https://test-streams.mux.dev/tos_ismc/main.m3u8
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 tvg-id="demo.cinema.tos.hd" tvg-name="Tears of Steel HD" tvg-chno="12" tvg-logo="https://eweber911.github.io/excalibur-demo-lineup/logos/demo.cinema.tos.hd.png" group-title="Open Cinema",Tears of Steel HD
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="demo.adult.test" tvg-name="Adult Test" tvg-chno="30" tvg-logo="https://eweber911.github.io/excalibur-demo-lineup/logos/demo.adult.test.png" group-title="Adult",Adult Test
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 tvg-id="demo.ref.apple.adv" tvg-name="Apple Advanced Sample" tvg-chno="20" tvg-logo="https://eweber911.github.io/excalibur-demo-lineup/logos/demo.ref.apple.adv.png" group-title="Reference Streams",Apple Advanced Sample
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
 #EXTINF:-1 tvg-id="demo.ref.apple.169" tvg-name="Apple 16:9 Sample" tvg-chno="21" tvg-logo="https://eweber911.github.io/excalibur-demo-lineup/logos/demo.ref.apple.169.png" group-title="Reference Streams",Apple 16:9 Sample
